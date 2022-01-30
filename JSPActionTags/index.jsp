@@ -9,8 +9,8 @@
 <body>
 Usage of useBean tag<br>
 <jsp:useBean id="productBean" class="com.ecommerce.ProductBean" scope="session"></jsp:useBean>
-        <jsp:setProperty property="productId" name="productBean" value="1430"/>
-        <jsp:setProperty property="productName" name="productBean" value="HP Laptop"/>
+        <jsp:setProperty property="productId" name="productBean" value="144430"/>
+        <jsp:setProperty property="productName" name="productBean" value="Maruti 14"/>
         <jsp:setProperty property="price" name="productBean" value="93000.00"/>
         <hr>
 
